@@ -1,8 +1,8 @@
 {% extends "blog/base.html" %}
 {% block content %}
+    <h1 class="mb-3">Post by {{ view.kwargs.username }} ({{ page_obj.paginator.count }})</h1>
       {% for post in posts %}
-
-        <article class="media content-section" style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwqnEo-dO7oonYufGc3UXhWfWbtkrZjFl-Fw&usqp=CAU'); background-repeat: no-repeat; background-size: 100% 100% "  >
+          <article class="media content-section" style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwqnEo-dO7oonYufGc3UXhWfWbtkrZjFl-Fw&usqp=CAU'); background-repeat: no-repeat; background-size: 100% 100% "  >
           <img class="rounded-circle article-img" src="{{ post.author.profile.image.url }}">
           <div class="media-body">
             <div class="article-metadata">
