@@ -4,11 +4,14 @@ bs4==0.0.1
 certifi==2020.6.20
 chardet==3.0.4
 Deprecated==1.2.10
+dj-database-url==0.5.0
 Django==3.0.8
 django-crispy-forms==1.9.2
+django-heroku==0.3.1
 gunicorn==20.0.4
 idna==2.10
 Pillow==7.2.0
+psycopg2==2.8.5
 PyGithub==1.51
 PyJWT==1.7.1
 python-dotenv==0.14.0
@@ -21,4 +24,5 @@ soupsieve==2.0.1
 sqlparse==0.3.1
 twilio==6.44.0
 urllib3==1.25.9
+whitenoise==5.2.0
 wrapt==1.12.1
