@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a47dfb4-e647-4916-b55d-cce36d828c6b" name="Default Changelist" comment="Developed the user profile">
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_confirm_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/user_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/password_reset_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fJqx50OX4qmZZfu71o0BCq0dld" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Vlad\Desktop\gitprojects\Django\Django_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a47dfb4-e647-4916-b55d-cce36d828c6b" name="Default Changelist" comment="" />
+      <created>1595946786452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595946786452</updated>
+      <workItem from="1595946787613" duration="21714000" />
+      <workItem from="1596281463735" duration="27435000" />
+    </task>
+    <task id="LOCAL-00001" summary="Developed the user profile">
+      <created>1596039437534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596039437534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Developed the user profile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Developed the user profile" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595946811016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595946811016" />
+    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595947221492">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595947221492" />
+    <state x="0" y="112" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1596039750543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="112" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596039750543" />
+    <state x="399" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595961088678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="211" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595961088678" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1596039965550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596039965550" />
+    <state width="1237" height="58" key="GridCell.Tab.0.bottom" timestamp="1596535564494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.bottom/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596535564494" />
+    <state width="1237" height="240" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596382378780" />
+    <state width="1237" height="58" key="GridCell.Tab.0.center" timestamp="1596535564494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.center/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596535564494" />
+    <state width="1237" height="240" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596382378779" />
+    <state width="1237" height="58" key="GridCell.Tab.0.left" timestamp="1596535564494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.left/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596535564494" />
+    <state width="1237" height="240" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596382378779" />
+    <state width="1237" height="58" key="GridCell.Tab.0.right" timestamp="1596535564494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="58" key="GridCell.Tab.0.right/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596535564494" />
+    <state width="1237" height="240" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596382378779" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1595961640200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595961640200" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1595961640200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595961640200" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1595961640200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595961640200" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1595961640200">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595961640200" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1595962765201">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595962765201" />
+    <state x="-10" y="0" key="SettingsEditor" timestamp="1596039932496">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-10" y="0" key="SettingsEditor/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596039932496" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1596039464519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596039464519" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1596405176457">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596405176457" />
+    <state x="245" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596406795869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="245" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596406795869" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596407596001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596407596001" />
+  </component>
+</project>
