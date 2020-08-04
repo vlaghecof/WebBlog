@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a47dfb4-e647-4916-b55d-cce36d828c6b" name="Default Changelist" comment="Developed the user profile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595946786452</updated>
       <workItem from="1595946787613" duration="21714000" />
-      <workItem from="1596281463735" duration="31672000" />
+      <workItem from="1596281463735" duration="32900000" />
     </task>
     <task id="LOCAL-00001" summary="Developed the user profile">
       <created>1596039437534</created>
