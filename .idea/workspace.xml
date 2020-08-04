@@ -95,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595946786452</updated>
       <workItem from="1595946787613" duration="21714000" />
-      <workItem from="1596281463735" duration="28900000" />
+      <workItem from="1596281463735" duration="29959000" />
     </task>
     <task id="LOCAL-00001" summary="Developed the user profile">
       <created>1596039437534</created>
@@ -171,10 +171,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595946811016" />
-    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595947221492">
+    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596544773061">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1595947221492" />
+    <state x="401" y="143" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1596544773061" />
     <state x="0" y="112" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1596039750543">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
